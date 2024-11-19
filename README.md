@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @emlegend
 - 👀 I’m interested in trying out stuff and experimenting
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML and Python
+- 📫 How to reach me emlegend on discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Java hates me
 
 <!---
 emlegend/emlegend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
